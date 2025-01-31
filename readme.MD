@@ -2,7 +2,7 @@
 
 Welcome to **HelloWorld**, an interactive website that greets the world in multiple languages! This project is designed to showcase a simple yet engaging web experience with a spinning globe and dynamic greetings.
 
-<a href="https://orin-pal.github.io/helloWorld/" target="_blank" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+<a href="https://orin-pal.github.io/helloWorld/" target="_blank">
   Open HelloWorld Website
 </a>
 
